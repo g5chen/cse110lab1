@@ -1,17 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages, my name is Guo Chen😍😍😍
 
 You can use the [editor on GitHub](https://github.com/g5chen/cse110lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Say "Hi" to my dog Baobao🐶🐶🐶
+[Link](https://www.boredpanda.com/funny-cats-vs-dogs-comics/?utm_source=google&utm_medium=organic&utm_campaign=organic) and ![Image](https://tva1.sinaimg.cn/large/008eGmZEly1gmgpfftxvoj31400u0kjl.jpg)
+```
+# Here is the link to UCSD Tritonlink:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
 ## Header 2
 ### Header 3
 
@@ -22,10 +19,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
