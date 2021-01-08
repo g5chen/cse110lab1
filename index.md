@@ -5,18 +5,21 @@ You can use the [editor on GitHub](https://github.com/g5chen/cse110lab1/edit/gh-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Say "Hi" to my dog Baobao🐶🐶🐶
-[Link](https://www.boredpanda.com/funny-cats-vs-dogs-comics/?utm_source=google&utm_medium=organic&utm_campaign=organic) and ![Image](https://tva1.sinaimg.cn/large/008eGmZEly1gmgpfftxvoj31400u0kjl.jpg)
+![Image](https://tva1.sinaimg.cn/large/008eGmZEly1gmgpfftxvoj31400u0kjl.jpg)
 ```
-# Here is the link to UCSD Tritonlink:
+# Here is the link to the website that introduces the funny facts about dog vs cat:
+[Link](https://www.boredpanda.com/funny-cats-vs-dogs-comics/?utm_source=google&utm_medium=organic&utm_campaign=organic)
 
-## Header 2
-### Header 3
+## The programming languages that I prefer to use are python\Java\Javascript\Html\CSS
 
-- Bulleted
-- List
+- I'm currently in China standard time. GMT+8
+- Would be able to work collaboratively: 
+  Mon - Fri: after 7pm
+  Sat - Sun: 24hours available 
+  (Since I'm currently doing my internship in Beijing and the working time is Mon to Fri 9am to 6pm)
 
-1. Numbered
-2. List
+1. It's okay to assign me to the front end(UI/UX, designing the prototype and etc)
+2. or the back end part(algorithm)
 
 **Bold** and _Italic_ and `Code` text
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
